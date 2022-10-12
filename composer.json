@@ -1,0 +1,24 @@
+{
+    "name": "io-jaegers/odin",
+    "description": "key-storage software written in PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "IoJaegers\\Odin\\": "src/"
+        }
+    },
+    "authors":
+    [
+        {
+            "name": "Madsen, Kent v.",
+            "email": "kent.vejrup.madsen@designermadsen.dk"
+        }
+    ],
+    "require":
+    {
+
+    }
+}
